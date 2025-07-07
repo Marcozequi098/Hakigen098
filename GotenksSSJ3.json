@@ -4,6 +4,7 @@
   "atk": 45,
   "spd": 40,
   "class": "Meelee",
+  "effect": "None",
   "artefato": "Metamoru-Jacket",
   "evoluções": ["N/A"]
 }
