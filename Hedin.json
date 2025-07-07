@@ -1,0 +1,11 @@
+{
+  "nome": "Hedin Selland",
+  "star": "6 stars",
+  "hp": 70,
+  "atk": 60,
+  "spd": 36,
+  "class": "Meelee/Buff",
+  "effect": "Shock|Buff 200%"
+  "artefato": "N/A",
+  "evoluções": "N/A"
+}
