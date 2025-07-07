@@ -1,0 +1,9 @@
+{
+  "nome": "Naruto Sennin Mode",
+  "hp": 70,
+  "atk": 42,
+  "spd": 32,
+  "class": "Meelee",
+  "artefato": "Sage",
+  "evoluções": ["N/A"]
+}
