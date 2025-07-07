@@ -1,0 +1,9 @@
+{
+  "nome": "Pain",
+  "hp": 70,
+  "atk": 40,
+  "spd": 30,
+  "class": "Meelee",
+  "artefato": "Rinnegan",
+  "evoluções": ["N/A"]
+}
