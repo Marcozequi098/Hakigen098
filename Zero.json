@@ -1,0 +1,11 @@
+{
+  "nome": "Zoro",
+  "star": "3 stars",
+  "hp": 45,
+  "atk": 35,
+  "spd": 32,
+  "class": "Meelee",
+  "effect:": "Bleeding",
+  "artefato": "",
+  "evoluções": "N/A"
+}
