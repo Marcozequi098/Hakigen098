@@ -1,0 +1,11 @@
+{
+  "nome": "Vegeta",
+  "star": "3 stars",
+  "hp": 50,
+  "atk": 33,
+  "spd": 28,
+  "class": "Meelee",
+  "effect:": "None",
+  "artefato": "N/A",
+  "evoluções": "VegetaSSJ with 4x Vegeta"
+}
