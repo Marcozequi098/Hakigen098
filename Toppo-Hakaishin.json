@@ -4,6 +4,7 @@
   "atk": 60,
   "spd": 35,
   "class": "Meelee",
+  "effect": "None",
   "artefato": "Hakai-Energy",
   "evoluções": ["N/A"]
 }
