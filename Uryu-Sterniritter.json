@@ -3,6 +3,7 @@
   "hp": 80,
   "atk": 50,
   "spd": 40,
+  "class": "Meelee",
   "artefato": "Vollstandig",
   "evoluções": ["N/A"]
 }
