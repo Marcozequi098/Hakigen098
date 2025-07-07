@@ -4,6 +4,7 @@
   "atk": 65,
   "spd": 40,
   "class": "Meelee",
+  "effect": "Sunburn",
   "artefato": "Sun Blade",
   "evoluções": ["N/A"]
 }
