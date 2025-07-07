@@ -4,6 +4,7 @@
   "atk": 45,
   "spd": 30,
   "class": "Meelee",
+  "effect": "None",
   "artefato": "SSJ",
   "evoluções": ["N/A"]
 }
