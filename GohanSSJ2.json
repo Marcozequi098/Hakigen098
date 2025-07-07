@@ -1,0 +1,9 @@
+{
+  "nome": "Gohan SSJ2",
+  "hp": 66,
+  "atk": 44,
+  "spd": 32,
+  "class": "Meelee",
+  "artefato": "SSJ",
+  "evoluções": ["N/A"]
+}
