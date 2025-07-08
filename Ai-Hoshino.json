@@ -7,5 +7,6 @@
   "class": "Buff/Farm",
   "effect": "Buff 300%"
   "artefato": "N/A",
-  "evoluções": "N/A"
+  "evoluções": "N/A",
+  "farm": 200
 }
