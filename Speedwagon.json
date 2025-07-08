@@ -1,0 +1,12 @@
+{
+  "nome": "Speedwagon",
+  "star": "6 stars",
+  "hp": 120,
+  "atk": "250 gold for hour",
+  "spd": 25,
+  "class": "Farm",
+  "effect": "None"
+  "artefato": "N/A",
+  "evoluções": "N/A",
+  "farm": 250
+}
