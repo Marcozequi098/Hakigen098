@@ -5,7 +5,7 @@
   "atk": 42,
   "spd": 32,
   "class": "Meelee",
-  "effect": "None":,
+  "effect": "None",
   "artefato": "Sage",
-  "evoluções": ["N/A"]
+  "evoluções": "N/A"
 }
