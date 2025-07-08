@@ -1,0 +1,12 @@
+{
+  "nome": "Balde de Lixo",
+  "star": "4 stars",
+  "hp": 55,
+  "atk": "100 gold for hour",
+  "spd": 20,
+  "class": "Farm",
+  "effect": "None"
+  "artefato": "N/A",
+  "evoluções": "N/A",
+  "farm": 100
+}
