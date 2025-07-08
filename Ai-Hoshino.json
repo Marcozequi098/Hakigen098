@@ -1,9 +1,9 @@
 {
   "nome": "Ai Hoshino",
   "star": "6 stars",
-  "hp": 50,
+  "hp": 100,
   "atk": "200 gold for hour",
-  "spd": 30,
+  "spd": 25,
   "class": "Buff/Farm",
   "effect": "Buff 300%"
   "artefato": "N/A",
