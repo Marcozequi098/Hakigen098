@@ -1,0 +1,11 @@
+{
+  "nome": "Bob Esponja",
+  "star": "4 stars",
+  "hp": 50,
+  "atk": 0,
+  "spd": 30,
+  "class": "Buff",
+  "effect": "Buff 150%",
+  "artefato": "N/A",
+  "evoluções": "N/A"
+}
