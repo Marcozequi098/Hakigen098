@@ -1,0 +1,11 @@
+{
+  "nome": "Brook",
+  "star": "4 stars",
+  "hp": 60,
+  "atk": 0,
+  "spd": 20,
+  "class": "Buff",
+  "effect": "Buff 180%"
+  "artefato": "N/A",
+  "evoluções": "N/A"
+}
