@@ -1,0 +1,11 @@
+{
+  "nome": "Daemon Targaryen",
+  "star": "5 stars",
+  "hp": 70,
+  "atk": 40,
+  "spd": 28,
+  "class": "Meelee",
+  "effect": "Bleeding",
+  "artefato": "Darksister",
+  "evoluções": "N/A"
+}
