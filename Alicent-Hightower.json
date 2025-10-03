@@ -1,0 +1,11 @@
+{
+    "nome": "Alicent Hightower",
+    "star": "Legendary",
+    "hp": 260,
+    "atk": 25,
+    "def": 30,
+    "spd": 25,
+    "mp": 145,
+    "class": "Healer",
+    "element": "Water"
+  }
