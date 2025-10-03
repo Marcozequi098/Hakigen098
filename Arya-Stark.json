@@ -1,0 +1,11 @@
+{
+    "nome": "Arya Stark",
+    "star": "Legendary",
+    "hp": 260,
+    "atk": 55,
+    "def": 25,
+    "spd": 50,
+    "mp": 120,
+    "class": "Shooter",
+    "element": "Wind"
+  }
