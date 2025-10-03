@@ -1,0 +1,11 @@
+{
+    "nome": "Night King",
+    "star": "Secret",
+    "hp": 260,
+    "atk": 70,
+    "def": 50,
+    "spd": 40,
+    "mp": 130,
+    "class": "Shooter",
+    "element": "Wind"
+  }
