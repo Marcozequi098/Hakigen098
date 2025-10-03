@@ -1,0 +1,11 @@
+{
+    "nome": "Visenya Targaryen",
+    "star": "Mythical",
+    "hp": 300,
+    "atk": 55,
+    "def": 45,
+    "spd": 35,
+    "mp": 150,
+    "class": "Warrior",
+    "element": "Fire"
+  }
