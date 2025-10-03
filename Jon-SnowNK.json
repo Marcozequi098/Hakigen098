@@ -1,0 +1,11 @@
+{
+    "nome": "Jon-Snow (North King)",
+    "star": "Mythical",
+    "hp": 340,
+    "atk": 60,
+    "def": 50,
+    "spd": 35,
+    "mp": 135,
+    "class": "Warrior",
+    "element": "Water"
+  }
