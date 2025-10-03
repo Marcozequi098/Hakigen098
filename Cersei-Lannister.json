@@ -1,0 +1,11 @@
+{
+    "nome": "Cersei Lannister",
+    "star": "Epic",
+    "hp": 240,
+    "atk": 25,
+    "def": 25,
+    "spd": 20,
+    "mp": 115,
+    "class": "Strategist",
+    "element": "Fire"
+  }
