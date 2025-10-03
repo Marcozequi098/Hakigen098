@@ -1,0 +1,11 @@
+{
+    "nome": "Rhaegar Targaryen",
+    "star": "Mythical",
+    "hp": 280,
+    "atk": 55,
+    "def": 35,
+    "spd": 40,
+    "mp": 150,
+    "class": "Strategist",
+    "element": "Wind"
+  }
