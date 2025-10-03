@@ -1,0 +1,11 @@
+{
+    "nome": "Otto Hightower",
+    "star": "Epic",
+    "hp": 260,
+    "atk": 20,
+    "def": 30,
+    "spd": 20,
+    "mp": 120,
+    "class": "Strategist",
+    "element": "Earth"
+  }
