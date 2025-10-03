@@ -1,0 +1,11 @@
+{
+    "nome": "Margaery Tyrell",
+    "star": "Legendary",
+    "hp": 240,
+    "atk": 25,
+    "def": 20,
+    "spd": 30,
+    "mp": 140,
+    "class": "Healer",
+    "element": "Wind"
+  }
