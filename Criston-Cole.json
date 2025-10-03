@@ -1,0 +1,11 @@
+{
+    "nome": "Criston Cole",
+    "star": "Epic",
+    "hp": 260,
+    "atk": 45,
+    "def": 35,
+    "spd": 25,
+    "mp": 110,
+    "class": "Warrior",
+    "element": "Wind"
+  }
