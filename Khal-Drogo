@@ -1,0 +1,11 @@
+{
+    "nome": "Khal-Drogo",
+    "star": "Legendary",
+    "hp": 320,
+    "atk": 55,
+    "def": 35,
+    "spd": 30,
+    "mp": 115,
+    "class": "Warrior",
+    "element": "Earth"
+  }
