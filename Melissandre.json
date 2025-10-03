@@ -1,0 +1,11 @@
+{
+    "nome": "Melissandre",
+    "star": "Legendary",
+    "hp": 240,
+    "atk": 30,
+    "def": 20,
+    "spd": 30,
+    "mp": 160,
+    "class": "Healer",
+    "element": "Fire"
+  }
