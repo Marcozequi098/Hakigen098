@@ -1,0 +1,11 @@
+{
+    "nome": "Tormund",
+    "star": "Epic",
+    "hp": 280,
+    "atk": 50,
+    "def": 35,
+    "spd": 25,
+    "mp": 105,
+    "class": "Warrior",
+    "element": "Water"
+  }
