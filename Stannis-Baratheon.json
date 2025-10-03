@@ -1,0 +1,11 @@
+{
+    "nome": "Stannis Baratheon",
+    "star": "Legendary",
+    "hp": 280,
+    "atk": 45,
+    "def": 35,
+    "spd": 25,
+    "mp": 135,
+    "class": "Strategist",
+    "element": "Fire"
+  }
