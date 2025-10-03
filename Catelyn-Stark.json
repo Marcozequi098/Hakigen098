@@ -1,0 +1,11 @@
+{
+    "nome": "Catelyn Stark",
+    "star": "Epic",
+    "hp": 240,
+    "atk": 20,
+    "def": 25,
+    "spd": 20,
+    "mp": 115,
+    "class": "Healer",
+    "element": "Water"
+  }
