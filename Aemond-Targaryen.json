@@ -1,0 +1,11 @@
+{
+    "nome": "Aemond Targaryen",
+    "star": "Mythical",
+    "hp": 320,
+    "atk": 60,
+    "def": 45,
+    "spd": 35,
+    "mp": 150,
+    "class": "Warrior",
+    "element": "Fire"
+  }
