@@ -1,0 +1,12 @@
+{  
+    "nome": "Rhaenyra Jovem",
+    "star": "Legendary",
+    "hp": 280,
+    "atk": 50,
+    "def": 30,
+    "spd": 40,
+    "mp": 130,
+    "class": "Warrior",
+    "element": "Fire"
+},
+  
