@@ -1,0 +1,11 @@
+{
+    "nome": "Jon-Snow",
+    "star": "Legendary",
+    "hp": 300,
+    "atk": 45,
+    "def": 35,
+    "spd": 30,
+    "mp": 130,
+    "class": "Warrior",
+    "element": "Water"
+}
