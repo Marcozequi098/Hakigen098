@@ -1,0 +1,11 @@
+{
+    "nome": "Robert Baratheon",
+    "star": "Mythical",
+    "hp": 360,
+    "atk": 70,
+    "def": 50,
+    "spd": 30,
+    "mp": 130,
+    "class": "Warrior",
+    "element": "Earth"
+  }
