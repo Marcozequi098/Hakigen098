@@ -1,0 +1,11 @@
+{
+    "nome": "Joffrey Baratheon",
+    "star": "Epic",
+    "hp": 220,
+    "atk": 25,
+    "def": 15,
+    "spd": 20,
+    "mp": 110,
+    "class": "Shooter",
+    "element": "Fire"
+  }
