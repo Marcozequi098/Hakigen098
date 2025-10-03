@@ -1,0 +1,11 @@
+{
+    "nome": "Brienne de Tarth",
+    "star": "Legendary",
+    "hp": 320,
+    "atk": 45,
+    "def": 50,
+    "spd": 25,
+    "mp": 110,
+    "class": "Tank",
+    "element": "Earth"
+  }
