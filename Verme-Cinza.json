@@ -1,0 +1,11 @@
+{
+    "nome": "Verme Cinza",
+    "star": "Epic",
+    "hp": 260,
+    "atk": 45,
+    "def": 35,
+    "spd": 30,
+    "mp": 105,
+    "class": "Warrior",
+    "element": "Earth"
+  }
