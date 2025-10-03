@@ -1,0 +1,11 @@
+{
+    "nome": "Jaime Lannister",
+    "star": "Mythical",
+    "hp": 320,
+    "atk": 65,
+    "def": 45,
+    "spd": 40,
+    "mp": 140,
+    "class": "Warrior",
+    "element": "Wind"
+  }
