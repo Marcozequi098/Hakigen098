@@ -1,0 +1,11 @@
+{
+    "nome": "Renly Baratheon",
+    "star": "Legendary",
+    "hp": 260,
+    "atk": 40,
+    "def": 25,
+    "spd": 30,
+    "mp": 125,
+    "class": "Strategist",
+    "element": "Water"
+  }
