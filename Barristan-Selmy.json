@@ -1,0 +1,11 @@
+{
+    "nome": "Barristan Selmy",
+    "star": "Legendary",
+    "hp": 320,
+    "atk": 55,
+    "def": 40,
+    "spd": 35,
+    "mp": 110,
+    "class": "Warrior",
+    "element": "Wind"
+  }
