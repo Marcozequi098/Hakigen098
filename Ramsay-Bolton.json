@@ -1,0 +1,11 @@
+{
+    "nome": "Ramsay Bolton",
+    "star": "Epic",
+    "hp": 250,
+    "atk": 40,
+    "def": 25,
+    "spd": 30,
+    "mp": 115,
+    "class": "Shooter",
+    "element": "Fire"
+  }
