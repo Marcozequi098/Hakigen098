@@ -1,0 +1,11 @@
+{
+    "nome": "Gregor Clegane",
+    "star": "Epic",
+    "hp": 300,
+    "atk": 55,
+    "def": 45,
+    "spd": 20,
+    "mp": 100,
+    "class": "Tank",
+    "element": "Earth"
+  }
