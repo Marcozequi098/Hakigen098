@@ -1,0 +1,11 @@
+{
+    "nome": "Tyrion Lannister",
+    "star": "Epic",
+    "hp": 240,
+    "atk": 20,
+    "def": 20,
+    "spd": 25,
+    "mp": 115,
+    "class": "Strategist",
+    "element": "Wind"
+  }
