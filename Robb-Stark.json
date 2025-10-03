@@ -1,0 +1,11 @@
+{
+    "nome": "Robb Stark",
+    "star": "Legendary",
+    "hp": 300,
+    "atk": 45,
+    "def": 35,
+    "spd": 30,
+    "mp": 120,
+    "class": "Strategist",
+    "element": "Earth"
+  }
