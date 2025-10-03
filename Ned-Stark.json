@@ -1,0 +1,11 @@
+{
+    "nome": "Ned-Stark",
+    "star": "Legendary",
+    "hp": 300,
+    "atk": 40,
+    "def": 40,
+    "spd": 25,
+    "mp": 120,
+    "class": "Tank",
+    "element": "Water"
+  }
