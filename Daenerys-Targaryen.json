@@ -1,0 +1,11 @@
+{
+    "nome": "Daenerys Targaryen",
+    "star": "Mythical",
+    "hp": 300,
+    "atk": 40,
+    "def": 30,
+    "spd": 35,
+    "mp": 170,
+    "class": "Strategist",
+    "element": "Fire"
+  }
