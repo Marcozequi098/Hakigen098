@@ -1,0 +1,11 @@
+{
+    "nome": "$textSplit[$splitText[$message[1]];:]",
+    "star": "Mythical",
+    "hp": 360,
+    "atk": 65,
+    "def": 50,
+    "spd": 35,
+    "mp": 140,
+    "class": "Warrior",
+    "element": "Fire"
+  }
