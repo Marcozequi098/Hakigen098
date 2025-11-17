@@ -1,1 +1,7 @@
-h
+{
+  "nome": "Tanque Sherman",
+  "power": "50",
+  "hp": 48,
+  "atk": 35,
+  "def": 32
+}
