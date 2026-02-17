@@ -1,0 +1,12 @@
+{
+    "nome": "Toji Fushiguro",
+    "star": "Mythical",
+    "hp": 380,
+    "atk": 125,
+    "def": 100,
+    "spd": 75,
+    "mp": 100,
+    "class": "Assassin",
+    "element": "Dark",
+    "img": "https://cdn.discordapp.com/attachments/1473321458141757685/1473321546138521712/b073a98e6d76db6df7aec0a32c91bcea.jpg?ex=6995c91d&is=6994779d&hm=948280922ca7a5dcc57477b76a50ce94fb1d7a7e4d0cffe719e4ce7b8bd0fe03&"
+  }
