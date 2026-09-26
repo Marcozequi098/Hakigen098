@@ -8,8 +8,8 @@
     "mp": 140,
     "class": "Warrior",
     "element": "Wind",
-    "move1": "150|DMG",
-    "move2": "100|Block",
-    "move3": "200|DMG",
-    "move4": "60|DMG"
+    "move1": "DMG|150",
+    "move2": "Block|100",
+    "move3": "DMG|200",
+    "move4": "DMG|60"
   }
